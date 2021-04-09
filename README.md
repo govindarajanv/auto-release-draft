@@ -103,3 +103,14 @@ See the [actions tab](https://github.com/actions/typescript-action/actions) for 
 ## Usage:
 
 After testing you can [create a v1 tag](https://github.com/actions/toolkit/blob/master/docs/action-versioning.md) to reference the stable and latest V1 action
+https://github.com/actions
+
+- Choose Typescript template (https://github.com/actions/typescript-action)
+
+- CTRL+SHIFT+B => npm build and npm test as tasks
+
+- run these tasks and verify
+
+- Press F5 and create launch.json file
+
+- npm install --save @actions/github
