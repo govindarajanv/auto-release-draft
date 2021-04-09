@@ -113,3 +113,4 @@ https://github.com/actions
 
 - Press F5 and create launch.json file
 
+- npm install --save @actions/github
