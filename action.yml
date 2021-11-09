@@ -1,5 +1,4 @@
 # comment
-# new comment
 name: 'Auto Release Draft'
 description: 'Draft a githb release based on the changes introduced'
 author: 'Govindarajan V'
